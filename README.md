@@ -3,7 +3,7 @@
 Instruções do teste
 ------
 
-Desenvolva uma aplicação em linguagem Python que seja acessível localmente e verifique se um determinado número de CPF está em uma        *Blacklist*.
+Desenvolva uma API REST em linguagem Python que seja acessível localmente e verifique se um determinado número de CPF está em uma        *Blacklist*.
 
 A aplicação deve:
  
