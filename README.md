@@ -27,3 +27,11 @@ Como entregar este teste
 -----
 
 Você deve forkar este projeto em sua própria conta do GitHub e fazer o commit em seu próprio repositório.
+
+
+-----
+
+## As Dependências para executar essa aplicação são:
+
+1- flask
+2- flask_restx
